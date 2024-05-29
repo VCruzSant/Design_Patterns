@@ -87,7 +87,6 @@ if __name__ == '__main__':
 
     box_tshirt.print_content()
     print(box_tshirt.get_price())
-    print()
 
     # leaf
     smartphone1 = Product('smartphone1', 5000)
